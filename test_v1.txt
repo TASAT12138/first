@@ -1,1 +1,6 @@
-test
+git init
+
+git add xxx
+
+git commit -m "xxx"
+
